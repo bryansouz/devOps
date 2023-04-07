@@ -1,2 +1,4 @@
 # devOps
-Aprende sobre o conceito 
+Aprendendo sobre o conceito 
+
+# Cultura devOps
